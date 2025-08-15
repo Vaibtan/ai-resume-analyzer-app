@@ -7,6 +7,7 @@ ResuMaster is a modern React + TypeScript web application designed to help job s
 Users can upload their resume PDFs, which are automatically converted to images for preview. The app provides comprehensive analysis focusing on various aspects such as **ATS compatibility**, **tone and style**, **content quality**, **structure**, and **relevant skills**.
 
 ## 🏛️ System Architecture
+![Alt text](./AI Resume Analyzer Diagram.png)
 
 
 ## ✨ Features
